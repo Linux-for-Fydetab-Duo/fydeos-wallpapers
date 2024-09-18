@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>FydeTab Background 2</name>
+        <filename>/usr/share/backgrounds/fydetab bg 2.png</filename>
+        <filename-dark>/usr/share/backgrounds/fydetab bg 2.png</filename-dark>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+    </wallpaper>
+</wallpapers>
